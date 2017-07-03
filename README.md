@@ -1,7 +1,7 @@
 # Stock-One
 
-> Tous les Droits sont réservés.<br />
-> Toutes Reproduction entrenera des poursuites judicieres
+> (c) Copyright Arkitek Inc. Tous droits sont réservés.<br />
+> La reproduction ou l'utilisation de ce projet à des fins lucratives autorise l'entreprise à engager des poursuites judicières pour vol de produit.
 
 # Structure du dossier:
 
