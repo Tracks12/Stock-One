@@ -109,7 +109,7 @@
 
 # Essaie gratuit en ligne:
 
-Attention ! Cette version étant une bêta, nous vous conseillons de ne pas renseigner toutes informations personnels à part votre adresse mail pour confirmation.
+Attention ! Cette version étant une bêta, nous vous déconseillons de ne pas renseigner toutes informations personnels à part votre adresse mail pour confirmation.
 > Version d'essaie en ligne à cette adresse: <a href="http://betawallahso.altervista.org/#" target="_blank">http://betawallahso.altervista.org/#</a>
 
 # Téléchargement:
