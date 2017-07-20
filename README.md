@@ -107,9 +107,9 @@
         <!--<a href="../../blob/master/system/system.php">-->system.php<!--</a>-->
 </pre>
 
-#
+# Essaie gratuit en ligne:
 
-> Version d'essaie en ligne à cette adresse : <a href="http://betawallahso.altervista.org/#" target="_blank">http://betawallahso.altervista.org/#</a>
+> Version d'essaie en ligne à cette adresse: <a href="http://betawallahso.altervista.org/#" target="_blank">http://betawallahso.altervista.org/#</a>
 
 # Téléchargement:
 
