@@ -111,7 +111,3 @@
 
 > Attention ! Cette version étant une bêta, nous vous déconseillons de renseigner toutes informations personnels à part votre adresse mail pour confirmation de compte.<br />
 > Version d'essaie en ligne à cette adresse: <a href="http://betawallahso.altervista.org/#" target="_blank">http://betawallahso.altervista.org/#</a>
-
-# Téléchargement:
-
-> Lien de téléchargement du site: <a href="https://mega.nz/#!ftkATDCD!jHu1pYQd14-Faj-CSGsOztz4RHNyNPWxHbcwxwjeDeY" target="_blank">ICI</a>
