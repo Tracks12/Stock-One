@@ -1,7 +1,7 @@
 /**********************
-*											*
-* 	 File: other.js		*
-*											*
+*                     *
+*    File: other.js   *
+*                     *
 **********************/
 
 window.addEventListener('load', beg_func, false);
