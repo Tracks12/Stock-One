@@ -9,14 +9,14 @@
 var camera, scene, renderer;
 var geometry, material, mesh;
 
-function init() {
+function init(x) {
 	renderer = new THREE.CanvasRenderer();
 	renderer.setSize(window.innerWidth, window.innerHeight);
 	document.body.appendChild(renderer.domElement);
 	camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 1000);
 	camera.position.z = 500;
 	scene = new THREE.Scene();
-	geometry = new THREE.CubeGeometry(200, 200, 200);
+	geometry = new THREE.CubeGeometry(x, x, x);
 	material = new THREE.MeshBasicMaterial({ color: 0xCCCCCC, wireframe: true, wireframeLinewidth: 2 });
 	mesh = new THREE.Mesh(geometry, material);
 	scene.add(mesh);
@@ -29,7 +29,7 @@ function animate() {
 	renderer.render(scene, camera);
 }
 
-init();
+init(200);
 animate();
 
 // END
